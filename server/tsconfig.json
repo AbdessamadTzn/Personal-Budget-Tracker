@@ -3,9 +3,9 @@
     "module": "NodeNext",
     "moduleResolution": "nodenext",
     "baseUrl": "src",
-    "paths": {
-      "db/*": ["db/*"]
-    },
+    // "paths": {
+    //   "db/*": ["db/*"]
+    // },
     "outDir": "dist",
     "sourceMap": true,
     "noImplicitAny": true
